@@ -491,7 +491,4 @@ if __name__ == '__main__':
 
 """
 python simulation.py -t finger_table
-check
-add_node localhost:50005 localhost 50005
-leave_node localhost:50005 localhost 50005
 """
